@@ -33,22 +33,22 @@
     - [Notifier](#notifier)
 
 # Mergebots
-- [Trunk Bot](https://github.com/PlasticSCM/trunk-mergebot) - Implement [Trunk Based Development](https://trunkbaseddevelopment.com/) in your team!
+- [Trunk Bot](https://github.com/PlasticSCM/trunk-mergebot) - `C#` - Implement [Trunk Based Development](https://trunkbaseddevelopment.com/) in your team!
 
 # Plugs
 
 ## Issue tracker
 
-- [Jira](https://github.com/mig42/jiraplug) - Let the mergebot retrieve the task status from [Jira](https://www.atlassian.com/software/jira)
-- [Polarion](https://github.com/mig42/polarionplug) - Use this plug if your team tracks development with [Polarion](https://polarion.plm.automation.siemens.com/)
+- [Jira](https://github.com/mig42/jiraplug) - `C#` - Let the mergebot retrieve the task status from [Jira](https://www.atlassian.com/software/jira)
+- [Polarion](https://github.com/mig42/polarionplug) - `C#` - Use this plug if your team tracks development with [Polarion](https://polarion.plm.automation.siemens.com/)
 
 ## Continuous integration
 
-- [Bamboo](https://github.com/mig42/bambooplug) - This plug will let your mergebot trigger builds in [Bamboo](https://www.atlassian.com/software/bamboo)
-- [Jenkins](https://github.com/mig42/jenkinsplug) - Same thing but using [Jenkins](https://jenkins.io/), the open source CI system
-- [TeamCity](https://github.com/mig42/teamcityplug) - You prefer [TeamCity](https://www.jetbrains.com/teamcity/) to build your software? Pick this plug!
+- [Bamboo](https://github.com/mig42/bambooplug) - `C#` - This plug will let your mergebot trigger builds in [Bamboo](https://www.atlassian.com/software/bamboo)
+- [Jenkins](https://github.com/mig42/jenkinsplug) - `C#` - Same thing but using [Jenkins](https://jenkins.io/), the open source CI system
+- [TeamCity](https://github.com/mig42/teamcityplug) - `C#` - You prefer [TeamCity](https://www.jetbrains.com/teamcity/) to build your software? Pick this plug!
 
 ## Notifier
 
-- [Email](https://github.com/mig42/emailplug) - Use a SMTP server to notify your teammates
-- [Slack](https://github.com/mig42/slackplug) - If your team uses [Slack](https://www.slack.com/), go for this one
+- [Email](https://github.com/mig42/emailplug) - `C#` - Use a SMTP server to notify your teammates
+- [Slack](https://github.com/mig42/slackplug) - `C#` - If your team uses [Slack](https://www.slack.com/), go for this one
