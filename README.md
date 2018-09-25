@@ -12,9 +12,10 @@
 </p>
 
 
-<p align="left">
-  Plastic SCM mergebots and plugs can be totally customized.
-  You'll find here links to the repos containing sample mergebots and plugs. Use them to create your own!
+<p align="center">
+  Plastic SCM mergebots and plugs can be totally customized.<br/>
+  You'll find here links to the repos containing sample mergebots and plugs. <br/>
+  Use them to create your own!
 </p>
 
 <p align="center">
