@@ -1,8 +1,20 @@
+
+<p align="center">
+  <strong>Welcome to the mergebots and plugs repository!</strong>
+</p>
+
 <p align="center">
   <img alt="DevOps" src="https://raw.githubusercontent.com/mig42/devops/master/img/icon-bot-i-love-merge.png" />
 </p>
+
 <p align="center">
   <img alt="PlasticSCM" src="https://raw.githubusercontent.com/mig42/devops/master/img/logo.png" />
+</p>
+
+
+<p align="left">
+  Plastic SCM mergebots and plugs can be totally customized.
+  You'll find here links to the repos containing sample mergebots and plugs. Use them to create your own!
 </p>
 
 <p align="center">
