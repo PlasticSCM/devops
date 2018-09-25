@@ -1,8 +1,8 @@
 <p align="center">
-  ![DevOps](img/icon-bot-i-love-merge.png)
+  ![DevOps](https://raw.githubusercontent.com/mig42/devops/master/img/icon-bot-i-love-merge.png)
 </p>
 <p align="center">
-  ![PlasticSCM](img/logo.png)
+  ![PlasticSCM](https://raw.githubusercontent.com/mig42/devops/master/img/logo.png)
 </p>
 
 <p align="center">
@@ -27,16 +27,16 @@
 
 ## Issue tracker
 
-- [Jira](https://github.com/mig42/jiraplug)
-- [Polarion](https://github.com/mig42/polarionplug)
+- [Jira](https://github.com/mig42/jiraplug) - Let the mergebot retrieve the task status from [Jira](https://www.atlassian.com/software/jira)
+- [Polarion](https://github.com/mig42/polarionplug) - Use this plug if your team tracks development with [Polarion](https://polarion.plm.automation.siemens.com/)
 
 ## Continuous integration
 
-- [Bamboo](https://github.com/mig42/bambooplug)
-- [Jenkins](https://github.com/mig42/jenkinsplug)
-- [TeamCity](https://github.com/mig42/teamcityplug)
+- [Bamboo](https://github.com/mig42/bambooplug) - This plug will let your mergebot trigger builds in [Bamboo](https://www.atlassian.com/software/bamboo)
+- [Jenkins](https://github.com/mig42/jenkinsplug) - Same thing but using [Jenkins](https://jenkins.io/), the open source CI system
+- [TeamCity](https://github.com/mig42/teamcityplug) - You prefer [TeamCity](https://www.jetbrains.com/teamcity/) to build your software? Pick this plug!
 
 ## Notifier
 
 - [Email](https://github.com/mig42/emailplug) - Use a SMTP server to notify your teammates
-- [Slack](https://github.com/mig42/slackplug) - Use [Slack](https://www.slack.com/) to notify your teammates
+- [Slack](https://github.com/mig42/slackplug) - If your team uses [Slack](https://www.slack.com/), go for this one
