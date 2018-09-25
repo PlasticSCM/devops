@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img alt="DevOps" src="https://raw.githubusercontent.com/mig42/devops/master/img/icon-bot-i-love-merge.png" />
+  <img alt="DevOps" src="https://raw.githubusercontent.com/PlasticSCM/devops/master/img/icon-bot-i-love-merge.png" />
 </p>
 
 <p align="center">
-  <img alt="PlasticSCM" src="https://raw.githubusercontent.com/mig42/devops/master/img/logo.png" />
+  <img alt="PlasticSCM" src="https://raw.githubusercontent.com/PlasticSCM/devops/master/img/logo.png" />
 </p>
 
 
@@ -40,16 +40,16 @@
 
 ## Issue tracker
 
-- [Jira](https://github.com/mig42/jiraplug) - `C#` - Let the mergebot retrieve the task status from [Jira](https://www.atlassian.com/software/jira)
-- [Polarion](https://github.com/mig42/polarionplug) - `C#` - Use this plug if your team tracks development with [Polarion](https://polarion.plm.automation.siemens.com/)
+- [Jira](https://github.com/PlasticSCM/jiraplug) - `C#` - Let the mergebot retrieve the task status from [Jira](https://www.atlassian.com/software/jira)
+- [Polarion](https://github.com/PlasticSCM/polarionplug) - `C#` - Use this plug if your team tracks development with [Polarion](https://polarion.plm.automation.siemens.com/)
 
 ## Continuous integration
 
-- [Bamboo](https://github.com/mig42/bambooplug) - `C#` - This plug will let your mergebot trigger builds in [Bamboo](https://www.atlassian.com/software/bamboo)
-- [Jenkins](https://github.com/mig42/jenkinsplug) - `C#` - Same thing but using [Jenkins](https://jenkins.io/), the open source CI system
-- [TeamCity](https://github.com/mig42/teamcityplug) - `C#` - You prefer [TeamCity](https://www.jetbrains.com/teamcity/) to build your software? Pick this plug!
+- [Bamboo](https://github.com/PlasticSCM/bambooplug) - `C#` - This plug will let your mergebot trigger builds in [Bamboo](https://www.atlassian.com/software/bamboo)
+- [Jenkins](https://github.com/PlasticSCM/jenkinsplug) - `C#` - Same thing but using [Jenkins](https://jenkins.io/), the open source CI system
+- [TeamCity](https://github.com/PlasticSCM/teamcityplug) - `C#` - You prefer [TeamCity](https://www.jetbrains.com/teamcity/) to build your software? Pick this plug!
 
 ## Notifier
 
-- [Email](https://github.com/mig42/emailplug) - `C#` - Use a SMTP server to notify your teammates
-- [Slack](https://github.com/mig42/slackplug) - `C#` - If your team uses [Slack](https://www.slack.com/), go for this one
+- [Email](https://github.com/PlasticSCM/emailplug) - `C#` - Use a SMTP server to notify your teammates
+- [Slack](https://github.com/PlasticSCM/slackplug) - `C#` - If your team uses [Slack](https://www.slack.com/), go for this one
