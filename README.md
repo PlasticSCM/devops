@@ -1,8 +1,8 @@
 <p align="center">
-  ![DevOps](https://raw.githubusercontent.com/mig42/devops/master/img/icon-bot-i-love-merge.png)
+  <img alt="DevOps" src="https://raw.githubusercontent.com/mig42/devops/master/img/icon-bot-i-love-merge.png" />
 </p>
 <p align="center">
-  ![PlasticSCM](https://raw.githubusercontent.com/mig42/devops/master/img/logo.png)
+  <img alt="PlasticSCM" src="https://raw.githubusercontent.com/mig42/devops/master/img/logo.png" />
 </p>
 
 <p align="center">
